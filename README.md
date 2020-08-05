@@ -15,6 +15,9 @@
 That's it, the application server will be started on http://localhost:3000/<br/><br/>
 View the application on https://ashwin19971.github.io/spacex-missions/
 
+### Tech Stack  
+Html, Css/Scss, Js, React.js
+
 ### Screenshots 
 
 ![rsz_1web-view](https://user-images.githubusercontent.com/34717765/89463691-eb390f80-d78c-11ea-86e1-0dec31d383f4.png)<br/><br/>
