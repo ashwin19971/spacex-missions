@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d4d234a5a87a18f270d41f9033ce6143",
+    "revision": "e25a22069b7c646844664b30202d924e",
     "url": "/spacex-missions/index.html"
   },
   {
-    "revision": "46d9a4d12d39f438a2b9",
-    "url": "/spacex-missions/static/css/main.076a1d5e.chunk.css"
+    "revision": "d5028809fae49643cb29",
+    "url": "/spacex-missions/static/css/main.a8ec6fa9.chunk.css"
   },
   {
     "revision": "6cc2fa6ffc97591d01e2",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spacex-missions/static/js/2.275602c6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "46d9a4d12d39f438a2b9",
-    "url": "/spacex-missions/static/js/main.70cf5eed.chunk.js"
+    "revision": "d5028809fae49643cb29",
+    "url": "/spacex-missions/static/js/main.b3747b05.chunk.js"
   },
   {
     "revision": "a04cab2024e22f90cf61",
