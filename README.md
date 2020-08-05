@@ -7,7 +7,7 @@
 
 
 ### Get the code and start project
-- clone the repo using `git clone https://github.com/ashwin19971/landing-page.git`
+- clone the repo using `git clone https://github.com/ashwin19971/spacex-missions.git`
 - cd into project directory
 - install npm dependencies using `npm install`
 - start the project using `npm start`

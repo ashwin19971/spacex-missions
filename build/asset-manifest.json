@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/web-landing-page/static/css/main.c3aefaef.chunk.css",
-    "main.js": "/web-landing-page/static/js/main.4bcdc682.chunk.js",
-    "main.js.map": "/web-landing-page/static/js/main.4bcdc682.chunk.js.map",
-    "runtime-main.js": "/web-landing-page/static/js/runtime-main.91964bf5.js",
-    "runtime-main.js.map": "/web-landing-page/static/js/runtime-main.91964bf5.js.map",
-    "static/js/2.f8cac5fe.chunk.js": "/web-landing-page/static/js/2.f8cac5fe.chunk.js",
-    "static/js/2.f8cac5fe.chunk.js.map": "/web-landing-page/static/js/2.f8cac5fe.chunk.js.map",
-    "index.html": "/web-landing-page/index.html",
-    "precache-manifest.25a639189696f18092b642d7d2a2bbfc.js": "/web-landing-page/precache-manifest.25a639189696f18092b642d7d2a2bbfc.js",
-    "service-worker.js": "/web-landing-page/service-worker.js",
-    "static/css/main.c3aefaef.chunk.css.map": "/web-landing-page/static/css/main.c3aefaef.chunk.css.map",
-    "static/js/2.f8cac5fe.chunk.js.LICENSE.txt": "/web-landing-page/static/js/2.f8cac5fe.chunk.js.LICENSE.txt",
-    "static/media/fontello.css": "/web-landing-page/static/media/fontello.ef01032c.svg"
+    "main.css": "/spacex-missions/static/css/main.076a1d5e.chunk.css",
+    "main.js": "/spacex-missions/static/js/main.70cf5eed.chunk.js",
+    "main.js.map": "/spacex-missions/static/js/main.70cf5eed.chunk.js.map",
+    "runtime-main.js": "/spacex-missions/static/js/runtime-main.42172ad3.js",
+    "runtime-main.js.map": "/spacex-missions/static/js/runtime-main.42172ad3.js.map",
+    "static/js/2.275602c6.chunk.js": "/spacex-missions/static/js/2.275602c6.chunk.js",
+    "static/js/2.275602c6.chunk.js.map": "/spacex-missions/static/js/2.275602c6.chunk.js.map",
+    "index.html": "/spacex-missions/index.html",
+    "precache-manifest.c485760486089116df58aad76027fc57.js": "/spacex-missions/precache-manifest.c485760486089116df58aad76027fc57.js",
+    "service-worker.js": "/spacex-missions/service-worker.js",
+    "static/css/main.076a1d5e.chunk.css.map": "/spacex-missions/static/css/main.076a1d5e.chunk.css.map",
+    "static/js/2.275602c6.chunk.js.LICENSE.txt": "/spacex-missions/static/js/2.275602c6.chunk.js.LICENSE.txt",
+    "static/media/fontello.css": "/spacex-missions/static/media/fontello.ef01032c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.91964bf5.js",
-    "static/js/2.f8cac5fe.chunk.js",
-    "static/css/main.c3aefaef.chunk.css",
-    "static/js/main.4bcdc682.chunk.js"
+    "static/js/runtime-main.42172ad3.js",
+    "static/js/2.275602c6.chunk.js",
+    "static/css/main.076a1d5e.chunk.css",
+    "static/js/main.70cf5eed.chunk.js"
   ]
 }
